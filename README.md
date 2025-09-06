@@ -1,5 +1,12 @@
 # A little bit about me
-Hello! My name is Eric Torres and I am a biotechnologist and (almost) a bioinformatician. I am Spanish and lived for most of my life in the small city of Azuqueca de Henares, not too far away from Madrid. Currently, I am living in Copenhagen, Denmark, where I am studying my MSc in Bioinformatics at DTU (among other things). 
+<p>
+  <img src="images/EricAtHome.jpg" alt="Profile photo" width="180" align="right" />
+   <b>Hello, I'm Eric!</b><br>
+  I am a biotechnologist and (almost) a bioinformatician. I am Spanish and lived for most of my life in the small city of Azuqueca de Henares, not too far away from Madrid. Currently, I am living in Copenhagen, Denmark, where I am studying my MSc in Bioinformatics at DTU (among other things). 
+
+  I am passionate of learning new things in general: from biology and bioinformatics to history, phylosophy, geography or sociology. I love reading and I always try to read something everyday. I also love cycling (luckily I live in the land of bikes 😜), hiking, cooking new recipes, learning new languages and travelling to new places. I find satisfaction in sharing knowledge with others.
+</p>
+
 
 # Where did I work in the past and what did I learn?
 My very first formal job was as a lifeguard with 17 years old. As many other young boys at my age, I decided to sacrifice part of my summer vacations with the goal of earning some money that would allow me some financial self-sufficiency. Actually, my current cell phone (yes, I am that kind of people that use the cellphone for more than 5 years) was payed with the savings I got from summer 2020. 
